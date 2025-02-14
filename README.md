@@ -18,3 +18,8 @@ The Sensors connection is being made using [Arduino Uno](https://docs.arduino.cc
 To read the data from the Arduino board from Java, I've read the USB port data, on a rate of 9600 ( same rate as the arduino transmists ), and after reaing the data I've send it over to the API using Http Requests.
 
 
+
+### Other parts repositories
+* [Arduino UNO + Java code](https://github.com/VladQweqw/WeatherApp_Arduino-Java)
+* [React + Vite FrontEnd](https://github.com/VladQweqw/Weather-App)
+* [NodeJS Backend](https://github.com/VladQweqw/Weather-API)
